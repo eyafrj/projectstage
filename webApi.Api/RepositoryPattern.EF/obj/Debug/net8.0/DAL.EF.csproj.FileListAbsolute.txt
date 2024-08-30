@@ -1,0 +1,17 @@
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.EF\bin\Debug\net8.0\DAL.EF.deps.json
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.EF\bin\Debug\net8.0\DAL.EF.runtimeconfig.json
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.EF\bin\Debug\net8.0\DAL.EF.dll
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.EF\bin\Debug\net8.0\DAL.EF.pdb
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.EF\bin\Debug\net8.0\BLL.core.dll
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.EF\bin\Debug\net8.0\BLL.core.pdb
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.EF\obj\Debug\net8.0\DAL.EF.csproj.AssemblyReference.cache
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.EF\obj\Debug\net8.0\DAL.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.EF\obj\Debug\net8.0\DAL.EF.AssemblyInfoInputs.cache
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.EF\obj\Debug\net8.0\DAL.EF.AssemblyInfo.cs
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.EF\obj\Debug\net8.0\DAL.EF.csproj.CoreCompileInputs.cache
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.EF\obj\Debug\net8.0\DAL.EF.csproj.Up2Date
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.EF\obj\Debug\net8.0\DAL.EF.dll
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.EF\obj\Debug\net8.0\refint\DAL.EF.dll
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.EF\obj\Debug\net8.0\DAL.EF.pdb
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.EF\obj\Debug\net8.0\DAL.EF.genruntimeconfig.cache
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.EF\obj\Debug\net8.0\ref\DAL.EF.dll

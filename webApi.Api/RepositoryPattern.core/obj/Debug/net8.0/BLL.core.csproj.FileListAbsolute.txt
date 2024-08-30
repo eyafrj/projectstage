@@ -1,0 +1,14 @@
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.core\bin\Debug\net8.0\BLL.core.deps.json
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.core\bin\Debug\net8.0\BLL.core.runtimeconfig.json
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.core\bin\Debug\net8.0\BLL.core.dll
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.core\bin\Debug\net8.0\BLL.core.pdb
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.core\obj\Debug\net8.0\BLL.core.csproj.AssemblyReference.cache
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.core\obj\Debug\net8.0\BLL.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.core\obj\Debug\net8.0\BLL.core.AssemblyInfoInputs.cache
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.core\obj\Debug\net8.0\BLL.core.AssemblyInfo.cs
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.core\obj\Debug\net8.0\BLL.core.csproj.CoreCompileInputs.cache
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.core\obj\Debug\net8.0\BLL.core.dll
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.core\obj\Debug\net8.0\refint\BLL.core.dll
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.core\obj\Debug\net8.0\BLL.core.pdb
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.core\obj\Debug\net8.0\BLL.core.genruntimeconfig.cache
+C:\Users\ferja\source\repos\webApi.Api\RepositoryPattern.core\obj\Debug\net8.0\ref\BLL.core.dll

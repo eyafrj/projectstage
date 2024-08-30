@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferja\\source\\repos\\webApi.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RepositoryPattern/True/SqlTable/dbo.Transactions.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAC3B20-C940-48B5-BB20-7C5EDCD976AA}|webApi.Api\\webApi.Api.csproj|c:\\users\\ferja\\source\\repos\\webapi.api\\webapi.api\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAC3B20-C940-48B5-BB20-7C5EDCD976AA}|webApi.Api\\webApi.Api.csproj|solutionrelative:webapi.api\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAC3B20-C940-48B5-BB20-7C5EDCD976AA}|webApi.Api\\webApi.Api.csproj|c:\\users\\ferja\\source\\repos\\webapi.api\\webapi.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAC3B20-C940-48B5-BB20-7C5EDCD976AA}|webApi.Api\\webApi.Api.csproj|solutionrelative:webapi.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7E049E-9DE6-4F56-BE4E-307E805E50CE}|RepositoryPattern.EF\\DAL.EF.csproj|c:\\users\\ferja\\source\\repos\\webapi.api\\repositorypattern.ef\\migrations\\20240826095314_foourestmigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7E049E-9DE6-4F56-BE4E-307E805E50CE}|RepositoryPattern.EF\\DAL.EF.csproj|solutionrelative:repositorypattern.ef\\migrations\\20240826095314_foourestmigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7E049E-9DE6-4F56-BE4E-307E805E50CE}|RepositoryPattern.EF\\DAL.EF.csproj|c:\\users\\ferja\\source\\repos\\webapi.api\\repositorypattern.ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7E049E-9DE6-4F56-BE4E-307E805E50CE}|RepositoryPattern.EF\\DAL.EF.csproj|solutionrelative:repositorypattern.ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FFE129-3486-44D0-8E22-92463287A75A}|RepositoryPattern.core\\BLL.core.csproj|c:\\users\\ferja\\source\\repos\\webapi.api\\repositorypattern.core\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FFE129-3486-44D0-8E22-92463287A75A}|RepositoryPattern.core\\BLL.core.csproj|solutionrelative:repositorypattern.core\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ferja\\source\\repos\\webApi.Api\\RepositoryPattern.EF\\Migrations\\20240826093942_foourestmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RepositoryPattern.EF\\Migrations\\20240826093942_foourestmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FFE129-3486-44D0-8E22-92463287A75A}|RepositoryPattern.core\\BLL.core.csproj|c:\\users\\ferja\\source\\repos\\webapi.api\\repositorypattern.core\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FFE129-3486-44D0-8E22-92463287A75A}|RepositoryPattern.core\\BLL.core.csproj|solutionrelative:repositorypattern.core\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Transactions [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RepositoryPattern/True/SqlTable/dbo.Transactions.sql",
+              "ToolTip": "dbo.Transactions [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-26T10:03:16.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\webApi.Api\\webApi.Api\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "webApi.Api\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\webApi.Api\\webApi.Api\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "webApi.Api\\Controllers\\TransactionsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:58:14.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240826095314_foourestmigrations.cs",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\webApi.Api\\RepositoryPattern.EF\\Migrations\\20240826095314_foourestmigrations.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern.EF\\Migrations\\20240826095314_foourestmigrations.cs",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\webApi.Api\\RepositoryPattern.EF\\Migrations\\20240826095314_foourestmigrations.cs",
+              "RelativeToolTip": "RepositoryPattern.EF\\Migrations\\20240826095314_foourestmigrations.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAYwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:53:15.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\webApi.Api\\RepositoryPattern.core\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern.core\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\webApi.Api\\RepositoryPattern.core\\Models\\Transaction.cs",
+              "RelativeToolTip": "RepositoryPattern.core\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:51:34.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\webApi.Api\\webApi.Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "webApi.Api\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\webApi.Api\\webApi.Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "webApi.Api\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAGYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:40:31.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240826093942_foourestmigration.cs",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\webApi.Api\\RepositoryPattern.EF\\Migrations\\20240826093942_foourestmigration.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern.EF\\Migrations\\20240826093942_foourestmigration.cs",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\webApi.Api\\RepositoryPattern.EF\\Migrations\\20240826093942_foourestmigration.cs",
+              "RelativeToolTip": "RepositoryPattern.EF\\Migrations\\20240826093942_foourestmigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:39:42.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\webApi.Api\\RepositoryPattern.EF\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern.EF\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\webApi.Api\\RepositoryPattern.EF\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RepositoryPattern.EF\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:38:35.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\webApi.Api\\RepositoryPattern.core\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern.core\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\webApi.Api\\RepositoryPattern.core\\Models\\Order.cs",
+              "RelativeToolTip": "RepositoryPattern.core\\Models\\Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:36:17.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
