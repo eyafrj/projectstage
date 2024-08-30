@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Portfolio</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- Dans le fichier _Layout.cshtml (généralement situé dans Views/Shared) -->
+
+    <link rel="stylesheet" href="~/css/site.css" />
+
+
+    <link rel="stylesheet" href="~/Portfolio.styles.css" asp-append-version="true" />
+
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>@ViewData["Title"] - Portfolio</title>
+
+    <!-- Favicons -->
+    <link href="@Url.Content("~/Content/assets/img/favicon.png")" rel="icon">
+    <link href="@Url.Content("~/Content/assets/img/apple-touch-icon.png")" rel="apple-touch-icon">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto|Poppins|Raleway&display=swap" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="@Url.Content("~/Content/assets/vendor/bootstrap/css/bootstrap.min.css")" rel="stylesheet">
+    <link href="@Url.Content("~/Content/assets/vendor/bootstrap-icons/bootstrap-icons.css")" rel="stylesheet">
+    <link href="@Url.Content("~/Content/assets/vendor/aos/aos.css")" rel="stylesheet">
+    <link href="@Url.Content("~/Content/assets/vendor/swiper/swiper-bundle.min.css")" rel="stylesheet">
+    <link href="@Url.Content("~/Content/assets/vendor/glightbox/css/glightbox.min.css")" rel="stylesheet">
+
+    <!-- Main CSS File -->
+    <link href="@Url.Content("~/Content/assets/css/main.css")" rel="stylesheet">
+</head>
+<body>
+
+   
+        <header id="header" class="header d-flex align-items-center fixed-top">
+            <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
+
+                <a href="/Content/index.html" class="logo d-flex align-items-center me-auto me-lg-0">
+                    <!-- Uncomment the line below if you also wish to use an image logo -->
+                    <!-- <img src="assets/img/logo.png" alt=""> -->
+                    <h1 class="sitename">GP</h1>
+                    <span>.</span>
+                </a>
+
+            <nav id="navmenu" class="navmenu">
+                <ul>
+                    <li><a href="/Content/index.html#hero" class="active">Home</a></li>
+                    <li><a href="/Content/index.html#about">About</a></li>
+                    <li><a href="/Content/index.html#services">Services</a></li>
+                    <li><a href="/Content/index.html#portfolio">Portfolio</a></li>
+                    <li><a href="/Content/index.html#team">Team</a></li>
+                    <li><a href="/Content/index.html#contact">Contact</a></li>
+
+                    <li><a asp-controller="Security" asp-action="Index">Security</a></li>
+                    <li><a asp-controller="Accounts" asp-action="Accounts">Account</a></li>
+                    <li><a asp-controller="Transactions" asp-action="Index">Transaction</a></li>
+                    <li><a asp-controller="Orders" asp-action="Index">Order</a></li>
+                
+                    <li class="dropdown">
+                        <a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+                        <ul>
+                            <li><a href="#">Dropdown 1</a></li>
+                            <li class="dropdown">
+                                <a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+                                <ul>
+                                    <li><a href="#">Deep Dropdown 1</a></li>
+                                    <li><a href="#">Deep Dropdown 2</a></li>
+                                    <li><a href="#">Deep Dropdown 3</a></li>
+                                    <li><a href="#">Deep Dropdown 4</a></li>
+                                    <li><a href="#">Deep Dropdown 5</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">Dropdown 2</a></li>
+                            <li><a href="#">Dropdown 3</a></li>
+                            <li><a href="#">Dropdown 4</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+                <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+            </nav>
+
+                <a class="btn-getstarted" href="/Content/index.html#about">Get Started</a>
+
+            </div>
+        </header>
+   
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - Portfolio - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    <script>
+        $(function () {
+            $('form').removeData("validator");
+            $('form').removeData("unobtrusiveValidation");
+            $.validator.unobtrusive.parse('form');
+        });
+    </script>
+
+</body>
+</html>

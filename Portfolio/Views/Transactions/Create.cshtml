@@ -1,0 +1,50 @@
+﻿@model Portfolio.ViewModels.TransactionCreate
+
+
+@{
+    ViewData["Title"] = "Create Transaction";
+}
+
+<h2>Create Transaction</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="OrderID" class="control-label">Order</label>
+        <select asp-for="OrderID" class="form-control" asp-items="Model.Orders"></select>
+        <span asp-validation-for="OrderID" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="AccountID" class="control-label">Account</label>
+        <select asp-for="AccountID" class="form-control" asp-items="Model.Accounts"></select>
+        <span asp-validation-for="AccountID" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="SecurityId" class="control-label">Security</label>
+        <select asp-for="SecurityId" class="form-control" asp-items="Model.Securities"></select>
+        <span asp-validation-for="SecurityId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Quantite" class="control-label">Quantity</label>
+        <input asp-for="Quantite" class="form-control" />
+        <span asp-validation-for="Quantite" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price" class="control-label">Price</label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

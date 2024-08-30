@@ -1,0 +1,65 @@
+﻿@model List<Portfolio.Models.Security>
+
+<h2 class="text-center mb-5">List of Securities</h2>
+
+<div class="row mb-5">
+    <div class="col">
+        <a class="btn btn-primary" asp-controller="Security" asp-action="Create">
+            <i class="fas fa-plus"></i> New Security
+        </a>
+    </div>
+    <div class="col">
+    </div>
+</div>
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>SecurityId</th>
+            <th>SecurityName</th>
+            <th>Symbol</th>
+            <th>SecurityType</th>
+            <th>CurrentPrice</th>
+            <th>MarketValue</th>
+            <th>LastUpdate</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var security in Model)
+        {
+            <tr>
+                <td>@security.SecurityId</td>
+                <td>@security.SecurityName</td>
+                <td>@security.symbol</td>
+                <td>@security.SecurityType</td>
+                <td>@security.currentPrice$</td>
+                <td>@security.MarketValue$</td>
+                <td>@security.Lastupdate.ToString("MM/dd/yyyy")</td>
+                <td style="white-space:nowrap">
+                    <a class="btn btn-primary btn-sm" asp-controller="Security" asp-action="Edit" asp-route-securityId="@security.SecurityId">
+                        <i class="fas fa-edit"></i>
+                    </a>
+
+                    <a class="btn btn-danger btn-sm" asp-controller="Security" asp-action="Delete" asp-route-securityId="@security.SecurityId">
+                        <i class="fas fa-trash-alt"></i>
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

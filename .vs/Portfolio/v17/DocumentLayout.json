@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferja\\source\\repos\\Portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\services\\priceupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\services\\priceupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\models\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\models\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\models\\securityshare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\models\\securityshare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\views\\home\\portfolio-details.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\home\\portfolio-details.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\wwwroot\\content\\starter-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\wwwroot\\content\\starter-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\wwwroot\\content\\portfolio-details.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\wwwroot\\content\\portfolio-details.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\wwwroot\\content\\service-details.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\wwwroot\\content\\service-details.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\wwwroot\\content\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\wwwroot\\content\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\views\\accounts\\accounts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\accounts\\accounts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\wwwroot\\content\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\wwwroot\\content\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|c:\\users\\ferja\\source\\repos\\portfolio\\portfolio\\wwwroot\\content\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FF20391-768D-4C88-A4C7-76D044C1D896}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\wwwroot\\content\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PriceUpdaterService.cs",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Services\\PriceUpdaterService.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Services\\PriceUpdaterService.cs",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Services\\PriceUpdaterService.cs",
+              "RelativeToolTip": "Portfolio\\Services\\PriceUpdaterService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAADwvy8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:24:18.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecurityController.cs",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Controllers\\SecurityController.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Controllers\\SecurityController.cs",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Controllers\\SecurityController.cs",
+              "RelativeToolTip": "Portfolio\\Controllers\\SecurityController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:21:28.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Portfolio\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAwKYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:20:52.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Models\\Order.cs",
+              "RelativeToolTip": "Portfolio\\Models\\Order.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwBYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:35:17.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SecurityShare.cs",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Models\\SecurityShare.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Models\\SecurityShare.cs",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Models\\SecurityShare.cs",
+              "RelativeToolTip": "Portfolio\\Models\\SecurityShare.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:52:20.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "portfolio-details.html",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Views\\Home\\portfolio-details.html",
+              "RelativeDocumentMoniker": "Portfolio\\Views\\Home\\portfolio-details.html",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Views\\Home\\portfolio-details.html",
+              "RelativeToolTip": "Portfolio\\Views\\Home\\portfolio-details.html",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAFoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-22T11:22:13.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Portfolio\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:30:19.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Portfolio\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAHwBAAAAAAAAAAAAwLwBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:35:04.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Models\\Account.cs",
+              "RelativeToolTip": "Portfolio\\Models\\Account.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwBoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T09:07:12.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Portfolio\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAKIBAAAAAAAAAAAEwKkBAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T11:16:35.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Security.cs",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Models\\Security.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Models\\Security.cs",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Models\\Security.cs",
+              "RelativeToolTip": "Portfolio\\Models\\Security.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:55:34.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "starter-page.html",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Content\\starter-page.html",
+              "RelativeDocumentMoniker": "Portfolio\\wwwroot\\Content\\starter-page.html",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Content\\starter-page.html",
+              "RelativeToolTip": "Portfolio\\wwwroot\\Content\\starter-page.html",
+              "ViewState": "AQIAAC8AAAAAAAAAAADgvzcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-22T11:14:09.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "service-details.html",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Content\\service-details.html",
+              "RelativeDocumentMoniker": "Portfolio\\wwwroot\\Content\\service-details.html",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Content\\service-details.html",
+              "RelativeToolTip": "Portfolio\\wwwroot\\Content\\service-details.html",
+              "ViewState": "AQIAAEYAAAAAAAAAAADwv1YAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-22T11:13:46.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Content\\package-lock.json",
+              "RelativeDocumentMoniker": "Portfolio\\wwwroot\\Content\\package-lock.json",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Content\\package-lock.json",
+              "RelativeToolTip": "Portfolio\\wwwroot\\Content\\package-lock.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T11:13:09.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Content\\package.json",
+              "RelativeDocumentMoniker": "Portfolio\\wwwroot\\Content\\package.json",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Content\\package.json",
+              "RelativeToolTip": "Portfolio\\wwwroot\\Content\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T11:13:07.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "portfolio-details.html",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Content\\portfolio-details.html",
+              "RelativeDocumentMoniker": "Portfolio\\wwwroot\\Content\\portfolio-details.html",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Content\\portfolio-details.html",
+              "RelativeToolTip": "Portfolio\\wwwroot\\Content\\portfolio-details.html",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAANcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-22T11:06:31.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Content\\index.html",
+              "RelativeDocumentMoniker": "Portfolio\\wwwroot\\Content\\index.html",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Content\\index.html",
+              "RelativeToolTip": "Portfolio\\wwwroot\\Content\\index.html",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAANsDAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-22T10:52:48.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Accounts.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Views\\Accounts\\Accounts.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Views\\Accounts\\Accounts.cshtml",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Views\\Accounts\\Accounts.cshtml",
+              "RelativeToolTip": "Portfolio\\Views\\Accounts\\Accounts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T11:16:31.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ferja\\source\\repos\\Portfolio\\Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAADgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T10:58:44.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

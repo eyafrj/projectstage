@@ -1,0 +1,27 @@
+﻿@using Portfolio.ViewModels
+@model SecurityShareCreateViewModel
+
+<h2>Edit Security Share</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="SecurityshareId" />
+    <input type="hidden" asp-for="AccountId" />
+    <input type="hidden" asp-for="SecurityId" />
+
+    <div class="form-group mb-3">
+        <label asp-for="Quantite" class="control-label">
+            <i class="fas fa-sort-numeric-up"></i> Quantity
+        </label>
+        <input asp-for="Quantite" class="form-control" />
+        <span asp-validation-for="Quantite" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <button type="submit" class="btn btn-primary">
+            <i class="fas fa-save"></i> Save
+        </button>
+        <a asp-action="ViewSecurityShares" asp-route-accountId="@Model.AccountId" class="btn btn-secondary">
+            <i class="fas fa-times"></i> Cancel
+        </a>
+    </div>
+</form>

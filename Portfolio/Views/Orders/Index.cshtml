@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Portfolio.Models.Order>
+
+@{
+    var message = TempData["Message"] as string;
+    var messageType = TempData["MessageType"] as string;
+}
+
+@if (!string.IsNullOrEmpty(message))
+{
+    <div class="alert alert-@(messageType == "success" ? "success" : "danger")">
+        @message
+    </div>
+}
+
+<h2>Orders</h2>
+<a class="btn btn-primary" asp-action="Create">Create New Order</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Account</th>
+            <th>Security</th>
+            <th>OrderType</th>
+            <th>Quantity</th>
+            <th>OrderDate</th>
+            <th>ExecutionDate</th> <!-- Colonne ExecutionDate -->
+            <th>Order Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.OrderID</td>
+                <td>@order.Account.AccountName</td>
+                <td>@order.Security.SecurityName</td>
+                <td>@order.OrderType</td>
+                <td>@order.Quantity</td>
+                <td>@order.OrderDate</td>
+
+                <!-- Afficher ExecutionDate seulement si l'ordre est exécuté -->
+                <td>
+                    @if (order.OrderStatus == "executed")
+                    {
+                        @order.ExecutionDate.ToString("g")
+                    }
+                    else
+                    {
+                        <span>-</span> <!-- Ou afficher un trait ou rien -->
+                    }
+                </td>
+
+                <td>@order.OrderStatus</td>
+                <td>
+                    <a asp-action="Execute" asp-route-orderId="@order.OrderID" class="btn btn-success">Execute</a>
+                    <a asp-action="Delete" asp-route-orderId="@order.OrderID" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

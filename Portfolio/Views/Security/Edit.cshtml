@@ -1,0 +1,85 @@
+﻿@model SecurityAdd
+
+<div class="row">
+    <div class="col-md-8 mx-auto rounded border p-3">
+        <h2 class="text-center mb-5">Update Security</h2>
+
+        <form method="post" enctype="multipart/form-data">
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">
+                    <i class="fas fa-id-badge"></i> Id
+                </label>
+                <div class="col-sm-8">
+                    <input class="form-control-plaintext" readonly value="@ViewData["SecurityId"]">
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">
+                    <i class="fas fa-tag"></i> Name
+                </label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="SecurityName">
+                    <span asp-validation-for="SecurityName" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">
+                    <i class="fas fa-cogs"></i> Type
+                </label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="SecurityType">
+                    <span asp-validation-for="SecurityType" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">
+                    <i class="fas fa-dollar-sign"></i> Market Value
+                </label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="MarketValue">
+                    <span asp-validation-for="MarketValue" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">
+                    <i class="fas fa-symbol"></i> Symbol
+                </label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="symbol">
+                    <span asp-validation-for="symbol" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">
+                    <i class="fas fa-money-bill-wave"></i> Price
+                </label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="currentPrice">
+                    <span asp-validation-for="currentPrice" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">
+                    <i class="fas fa-calendar-day"></i> Date
+                </label>
+                <div class="col-sm-8">
+                    <input class="form-control-plaintext" readonly value="@ViewData["LastUpdate"]">
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-sm-12 text-center">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="fas fa-save"></i> Save
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,56 @@
+﻿@model AccountUp
+
+<div class="row">
+    <div class="col-md-8 mx-auto rounded border p-3">
+        <h2 class="text-center mb-5">Update Security</h2>
+
+        <form method="post" enctype="multipart/form-data">
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Id</label>
+                <div class="col-sm-8">
+                    <input class="form-control-plaintext" readonly value="@ViewData["AccountID"]">
+                </div>
+            </div>
+
+
+       
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Name</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="AccountName">
+                    <span asp-validation-for="AccountName" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Type</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="AccountType">
+                    <span asp-validation-for="AccountType" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Market Value</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="TotalMarketValue">
+                    <span asp-validation-for="TotalMarketValue" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Modified Date</label>
+                <div class="col-sm-8">
+                    <input class="form-control-plaintext" readonly value="@Model.ModifiedDate.ToString("MM/dd/yyyy")">
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-sm-12 text-center">
+                    <button type="submit" class="btn btn-primary">Save</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
